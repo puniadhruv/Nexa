@@ -1,0 +1,12 @@
+sounddevice
+scipy
+openai-whisper
+pyttsx3
+pywhatkit
+pyautogui
+pyperclip
+ollama
+SpeechRecognition
+pyaudio
+customtkinter
+numpy
